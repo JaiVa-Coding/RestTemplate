@@ -1,6 +1,6 @@
 package com.example.resttemplate.todoservice.domain;
 
-//Test
+//Test1
 public class TestClass {
 
 }
